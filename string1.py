@@ -27,7 +27,8 @@ Kenzie assignment: String1
 
 def donuts(count):
     # your code here
-    return
+    #
+    return count
 
 
 # B. both_ends
